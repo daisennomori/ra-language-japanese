@@ -24,6 +24,7 @@ const messages = {
       undo: "元に戻す",
       expand: "開く",
       close: "閉じる",
+      unselect: "選択解除",
     },
     boolean: {
       true: "はい",
